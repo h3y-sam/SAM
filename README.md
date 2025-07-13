@@ -9,7 +9,7 @@ Welcome to **SAM** — a personal landing page that represents the heart of ever
 
 ## 🌟 Live Preview
 
-> 🟢 [Click Here to View Live Site](https://your-deployment-link.vercel.app) *(Replace with Netlify/Vercel link)*
+> 🟢 [Click Here to View Live Site](https://h3y-sam.github.io/SAM/) *(Replace with Netlify/Vercel link)*
 
 
 ## ✨ Features
